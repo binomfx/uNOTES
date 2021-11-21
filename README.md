@@ -1,8 +1,14 @@
 # uPRON - Synthetic Promissory Notes
 The aim of the project is to create a decentralized analogue of the promissory note.<br>
-In the fiat world, the circulation of promissory notes is regulated by the [UNIFIED LAW ON BILLS OF EXCHANGE AND PROMISSORY NOTES](https://github.com/binomfx/uPRON/blob/main/UNIFORM_LAW_FOR_BILLS_OF_EXCHANGE_AND_PROMISSORY_NOTES)
 
-The important parameters of the promissory note are listed in the following quote from the [UNIFIED LAW ON BILLS OF EXCHANGE AND PROMISSORY NOTES](https://github.com/binomfx/uPRON/blob/main/UNIFORM_LAW_FOR_BILLS_OF_EXCHANGE_AND_PROMISSORY_NOTES):
+## Fiat definitions
+From [Investopedia](https://www.investopedia.com/terms/p/promissorynote.asp):
+>A promissory note is a debt instrument that contains a written promise by one party (the note's issuer or maker) to pay another party (the note's payee) a definite sum of money, either on-demand or at a specified future date. A promissory note typically contains all the terms pertaining to the indebtedness, such as the principal amount, interest rate, maturity date, date and place of issuance, and issuer's signature.<br>
+>Although financial institutions may issue them—for instance, you might be required to sign a promissory note in order to take out a small personal loan—promissory notes **usually allow companies and individuals to get financing from a source other than a bank**. This source can be an individual or a company willing to carry the note (and provide the financing) under the agreed-upon terms. In effect, promissory notes can enable anyone to be a lender.<br>
+![image](https://user-images.githubusercontent.com/25432493/142755603-8b7ed6e7-971e-4c6c-9fce-484d53d7e043.png)
+
+In the fiat world, the circulation of promissory notes is regulated by the [UNIFIED LAW ON BILLS OF EXCHANGE AND PROMISSORY NOTES](https://github.com/binomfx/uPRON/blob/main/UNIFORM_LAW_FOR_BILLS_OF_EXCHANGE_AND_PROMISSORY_NOTES)
+The important parameters and provisions of the promissory note are listed in the following quote from the [UNIFIED LAW ON BILLS OF EXCHANGE AND PROMISSORY NOTES](https://github.com/binomfx/uPRON/blob/main/UNIFORM_LAW_FOR_BILLS_OF_EXCHANGE_AND_PROMISSORY_NOTES):
 >A promissory note contains:
 >1. The term 'promissory note' inserted in the body of the instrument and expressed in the language employed in drawing up the instrument;
 >2. An unconditional promise to pay a determinate sum of money;
@@ -32,3 +38,5 @@ The important parameters of the promissory note are listed in the following quot
 >The following provisions are also applicable to a promissory note: 
 >- Provisions relating to guarantee by aval (Articles 30-32); 
 >- in the case provided for in Article 31, last paragraph, if the aval does not specify on whose behalf it has been given, it is deemed to have been given on behalf of the maker of the promissory note.
+
+## 
