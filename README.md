@@ -30,5 +30,5 @@ The important parameters of the promissory note are listed in the following quot
 >- and provisions concerning a bill of exchange in blank (Article 10).
 >
 >The following provisions are also applicable to a promissory note: 
->Provisions relating to guarantee by aval (Articles 30-32); 
->in the case provided for in Article 31, last paragraph, if the aval does not specify on whose behalf it has been given, it is deemed to have been given on behalf of the maker of the promissory note.
+>- Provisions relating to guarantee by aval (Articles 30-32); 
+>- in the case provided for in Article 31, last paragraph, if the aval does not specify on whose behalf it has been given, it is deemed to have been given on behalf of the maker of the promissory note.
