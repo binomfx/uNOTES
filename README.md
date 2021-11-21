@@ -8,7 +8,7 @@ From [Investopedia](https://www.investopedia.com/terms/p/promissorynote.asp):
 
 ![image](https://user-images.githubusercontent.com/25432493/142755603-8b7ed6e7-971e-4c6c-9fce-484d53d7e043.png)
 
-In the fiat world, the circulation of promissory notes is regulated by the [UNIFIED LAW ON BILLS OF EXCHANGE AND PROMISSORY NOTES](https://github.com/binomfx/uPRON/blob/main/UNIFORM_LAW_FOR_BILLS_OF_EXCHANGE_AND_PROMISSORY_NOTES)
+In the fiat world, the circulation of promissory notes is regulated by the [UNIFIED LAW ON BILLS OF EXCHANGE AND PROMISSORY NOTES](https://github.com/binomfx/uPRON/blob/main/UNIFORM_LAW_FOR_BILLS_OF_EXCHANGE_AND_PROMISSORY_NOTES).<br>
 The important parameters and provisions of the promissory note are listed in the following quote from the [UNIFIED LAW ON BILLS OF EXCHANGE AND PROMISSORY NOTES](https://github.com/binomfx/uPRON/blob/main/UNIFORM_LAW_FOR_BILLS_OF_EXCHANGE_AND_PROMISSORY_NOTES):
 >A promissory note contains:
 >1. The term 'promissory note' inserted in the body of the instrument and expressed in the language employed in drawing up the instrument;
