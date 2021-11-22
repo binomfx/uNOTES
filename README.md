@@ -46,7 +46,7 @@ The important parameters and provisions of the promissory note are listed in the
 
 ## Synt Idea
 
-## Architecrture
+## Architecture
 
 ## Interface
 
