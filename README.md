@@ -42,7 +42,7 @@ The important parameters and provisions of the promissory note are listed in the
 >- Provisions relating to guarantee by aval (Articles 30-32); 
 >- in the case provided for in Article 31, last paragraph, if the aval does not specify on whose behalf it has been given, it is deemed to have been given on behalf of the maker of the promissory note.
 
-## Decentralized features
+## Decentralized Features
 
 ## Synt Idea
 
