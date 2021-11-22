@@ -1,5 +1,5 @@
 # uPRON - Synthetic Promissory Notes
-**Lending Services Killer**<br>
+### Lending Services Killer<br>
 
 The aim of the project is to create a decentralized analogue of the promissory note.<br>
 
