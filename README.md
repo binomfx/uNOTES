@@ -43,6 +43,9 @@ The important parameters and provisions of the promissory note are listed in the
 >- in the case provided for in Article 31, last paragraph, if the aval does not specify on whose behalf it has been given, it is deemed to have been given on behalf of the maker of the promissory note.
 
 ## Decentralized Features
+Обеспечение векселя - коллатерал
+Срок погашения - экспирация
+Индосамент - блокчейн. !!! можно ли сделать солидарную ответственность все, через чьи руки прошел вексель?
 
 ## Synt Idea
 Создать синтетический токен, функционирующих аналогично простому векселю, обеспеченный токенами UNISX. 
